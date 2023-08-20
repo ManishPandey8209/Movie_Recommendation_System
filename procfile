@@ -1,0 +1,3 @@
+# for running command on Horeku server
+
+web: sh setup.sh && streamlit run app.py
